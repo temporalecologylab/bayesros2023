@@ -1,4 +1,4 @@
-## Started 4 Oct 2024 ##
+## Started 4 Oct 2023 ##
 ## By Lizzie ##
 
 ## Based off: git/teaching/hotstats/examples/exampleday1/syncexampleday1.R ##
